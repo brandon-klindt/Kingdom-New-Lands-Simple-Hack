@@ -6,6 +6,12 @@ Game version v1.2.8
 
 ------
 
+## How to install
+
+Download and copy the Assembly-CSharp.dll and Kingdom_Hack.dll to your Kingdom New Lands -  Kingdom_Data - Managed folder
+
+------
+
 ### Assembly-CSharp.dll modifications
 
 **Game - OnLevelLoaded() : void**
