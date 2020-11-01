@@ -32,7 +32,7 @@ namespace Kingdom_Hack
 
         public void OnGUI()
         {
-            GUI.Label(new Rect(10, 10, 150f, 50f), "v1.0.0 by spliff\nPlayer Coins: " + _player.coins + "\nInvulnerable : " + _damageable.invulnerable);
+            GUI.Label(new Rect(10, 10, 150f, 50f), "v1.0.0 by spliff\n(Numpad 1)Invulnerable: " + _damageable.invulnerable + "\n(Numpad 2)Player Coins : " + _player.coins);
         }
         private Player _player;
         private Damageable _damageable;
