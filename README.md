@@ -12,6 +12,15 @@ Download and copy the Assembly-CSharp.dll and Kingdom_Hack.dll to your Kingdom N
 
 ------
 
+### Keybinds
+
+| Function                    | Button   |
+| --------------------------- | -------- |
+| Invulnerable (Toggle)       | Numpad 1 |
+| Add 10 coins to your wallet | Numpad 2 |
+
+
+
 ### Assembly-CSharp.dll modifications
 
 **Game - OnLevelLoaded() : void**
